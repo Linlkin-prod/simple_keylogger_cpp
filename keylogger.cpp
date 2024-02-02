@@ -32,6 +32,9 @@ string SpecialKeys(char S_Key) {
 	case VK_RBUTTON:
 		return "#R_CLICK#";
 
+	case VK_LBUTTON:
+		return "#L_CLICK#"
+
 	case VK_CAPITAL:
 		return "#CAPS_LCOK#";
 
